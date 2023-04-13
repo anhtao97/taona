@@ -1,0 +1,12 @@
+/* .bg-img1 {
+  background-size: cover;
+
+  height: 100vh;
+  background-image: url(image/img1.jpg);
+} */
+::marker {
+  font-size: 5px;
+}
+footer {
+  margin-top: 200px;
+}
